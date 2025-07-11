@@ -1,0 +1,30 @@
+# Sample Questions for Financial Chatbot
+
+## 🧠 Executive Summary
+- What were the key financial highlights for the current fiscal year?
+- How did our overall performance compare to the previous year?
+- Which company showed the strongest growth in the portfolio?
+- What are the main risk factors identified in the financial analysis?
+- What strategic recommendations can be derived from the current financial data?
+
+## 🏢 Company Analysis
+- What is the profit margin trend for Company A over the last 5 years?
+- How does Company B's revenue growth compare to the industry average?
+- What factors contributed to Company C's decline in Q3?
+- Which company has the most stable financial metrics?
+- What is the debt-to-equity ratio for each company in our portfolio?
+
+## ⚖️ Comparison
+- Which company has the highest return on investment?
+- How do the operating expenses compare across all companies?
+- What is the market share distribution among our portfolio companies?
+- Which company is most efficient in terms of revenue per employee?
+- How do the cash reserves compare across different companies?
+
+## 📊 Dashboard Usage
+- How can I export this data to PDF?
+- Is it possible to filter by specific date ranges?
+- Can I customize which metrics are displayed on the dashboard?
+- How frequently is the financial data updated?
+- Can I save custom views of the dashboard for future reference?
+

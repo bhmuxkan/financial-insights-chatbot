@@ -1,0 +1,14 @@
+PROJECT: Financial Growth Insights & AI Chatbot (2021–2023)
+
+An end-to-end Python project that analyzes multi-year financial data for Microsoft, Apple, and Tesla, and answers user queries through an interactive chatbot.
+
+This project features:
+- Cleaned and structured company data from 2021 to 2023
+- Year-over-year % growth metrics: revenue, income, assets, liabilities, cash flow
+- Three well-organized CSV reports: raw, processed, and summarized
+- A chatbot that provides financial insights through natural Q&A
+- Modular Jupyter Notebooks for reproducibility and clarity
+
+Tech Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter
+
+Purpose: Built as a smart, real-world portfolio project to showcase data analysis, automation, and conversational logic in finance.
